@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> ****  Laptop offers available till 10th august 2024 **** </h1>   
+         <h1> ****  Laptop & mobiles offers available till 10th feb 2024 **** </h1>   
 	 
 
     </section>    
